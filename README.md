@@ -1,7 +1,7 @@
 
 # ETH Social Network
 
-An social media dApp made with React, using the blockchain as server.
+An social media dApp made with React, using the eth blockchain as server.
 The user can post and tip other user posts with ETH.
 The smart contract was made with solidity.
 
